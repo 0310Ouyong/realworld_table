@@ -1,0 +1,3 @@
+# realworld_table
+1.从realworld_foodwebs_30nodes.R中根据Brose_foodwebdata.csv整理出nodes>=30的食物网名称，保存为realworld_foodwebs_30nodes.RData
+2.从whole_reproduce_Empiwebs.30nodes.R中根据realworld_foodwebs_30nodes.RData，将数据整理成表格，保存为whole_reproduce_Empiwebs_30nodes.RData
